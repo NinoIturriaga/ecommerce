@@ -1,37 +1,37 @@
 {
   "project_info": {
-    "project_number": "283466351178",
-    "project_id": "e-commerce-6455a",
-    "storage_bucket": "e-commerce-6455a.appspot.com"
+    "project_number": "639944955763",
+    "project_id": "ecommerce-cd3b1",
+    "storage_bucket": "ecommerce-cd3b1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283466351178:android:ca45dd94745ddc44939cb3",
+        "mobilesdk_app_id": "1:639944955763:android:78b50fd424165fed70d706",
         "android_client_info": {
           "package_name": "com.example.youtube_ecommerce"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283466351178-ei96fha2oftu5iqicsu3k0qooh1h0rs7.apps.googleusercontent.com",
+          "client_id": "639944955763-ikvfp08m0afio7gl8124m7s26ej5su4j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBKIa_OroKbFuJp1ecw6bT25s3kTg-544I"
+          "current_key": "AIzaSyA7cgXH0kb4xJg_UayQ43ZGX40DLE9amkg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283466351178-ei96fha2oftu5iqicsu3k0qooh1h0rs7.apps.googleusercontent.com",
+              "client_id": "639944955763-ikvfp08m0afio7gl8124m7s26ej5su4j.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "283466351178-1sm84pkm1vq8goj57egsf7c93893ajqp.apps.googleusercontent.com",
+              "client_id": "639944955763-rvmrqjcvek1hh0ktqaekvnjtjrfiuagq.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.youtubeEcommerce"

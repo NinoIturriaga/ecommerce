@@ -7,19 +7,19 @@ class DefaultFirebaseConfig {
     if (Platform.isIOS) {
       // iOS and MacOS
       return const FirebaseOptions(
-        appId: '1:283466351178:ios:11f94d8546d09dc5939cb3',
-        apiKey: 'AIzaSyDZMrO_9KcpEJc8yMiIL4oYEi9a5gFOzHI',
-        projectId: 'e-commerce-6455a',
-        messagingSenderId: '283466351178	',
+        appId: '1:639944955763:ios:d598e7dfa1e8076670d706',
+        apiKey: 'AIzaSyCQlEv3VFBP2aFAqF6iqiD6BOpPqz96aFM',
+        projectId: 'ecommerce-cd3b1',
+        messagingSenderId: '639944955763',
         iosBundleId: 'com.example.youtubeEcommerce',
       );
     } else {
       // Android
       return const FirebaseOptions(
-        appId: '1:283466351178:android:ca45dd94745ddc44939cb3',
-        apiKey: 'AIzaSyBKIa_OroKbFuJp1ecw6bT25s3kTg-544I',
-        projectId: 'e-commerce-6455a',
-        messagingSenderId: '283466351178',
+        appId: '1:639944955763:android:78b50fd424165fed70d706',
+        apiKey: 'AIzaSyA7cgXH0kb4xJg_UayQ43ZGX40DLE9amkg',
+        projectId: 'ecommerce-cd3b1',
+        messagingSenderId: '639944955763',
       );
     }
   }
